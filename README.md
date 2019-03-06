@@ -8,3 +8,7 @@ Essential Unix commands
 
 * octal notation
 > stat <file\>
+
+## TCPDUMP
+* monitor subnet traffic
+> tcpdump net 65.192.0.0/10
