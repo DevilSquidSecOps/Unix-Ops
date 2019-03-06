@@ -4,7 +4,7 @@ Essential Unix commands
 
 ## Permissions
 * alphabet notation
-> ls -al <file>
+> ls -al <file\>
 
 * octal notation
-> stat <file>
+> stat <file\>
