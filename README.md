@@ -11,4 +11,4 @@ Essential Unix commands
 
 ## TCPDUMP
 * monitor subnet traffic
-> tcpdump net 65.192.0.0/10
+> tcpdump net 65.192.0.0/16
